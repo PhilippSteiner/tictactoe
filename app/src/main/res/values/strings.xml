@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">tictactoe</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+
+
+    <string name="button_multiplayer">Start Multiplayer</string>
+    <string name="button_single">Start Single Player</string>
+    <string name="restart_game">Play again!</string>
+    <string name="player_turn">It\'s Player 1\'s turn!</string>
+    <string name="header">Philipp\'s TicTacToe</string>
+</resources>
